@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/AbstractGenerator/TriPatternExtractor.py" line="164" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="4223e8f8-0d59-4e84-bc7e-d1428282a2c4" name="Default" comment="" />
     <ignored path="AbstractGenerator.iws" />
@@ -18,63 +15,86 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="AbstractGenerator" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Extractor_Regex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex.py">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="（2015）吴江刑二初字第00679号.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/（2015）吴江刑二初字第00679号.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1407">
-              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+            <state relative-caret-position="0">
+              <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+=======
+    <leaf>
+      <file leaf-file-name="Extractor_Regex_civil.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex_civil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3793104" vertical-offset="716" max-vertical-offset="3528">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
               <folding>
-                <element signature="e#20#29#0" expanded="true" />
+                <element signature="e#44#53#0" expanded="true" />
+                <element signature="e#164#213#0" expanded="false" />
+                <element signature="e#236#331#0" expanded="false" />
+                <element signature="e#3819#4264#0" expanded="false" />
+                <element signature="e#4320#4815#0" expanded="false" />
+                <element signature="e#4865#5099#0" expanded="false" />
+                <element signature="e#5993#6317#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tools.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FileTools/Tools.py">
+      <file leaf-file-name="civil_marriage" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/dict/civil_marriage">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27517986" vertical-offset="246" max-vertical-offset="1911">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="987">
+              <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guilty_name.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/dict/guilty_name.txt">
+      <file leaf-file-name="civil_mariiage_result" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resource/dict/civil_mariiage_result">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9933">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.0920246" vertical-offset="1" max-vertical-offset="483">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="（2015）吴江刑二初字第00679号.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/（2015）吴江刑二初字第00679号.txt">
+      <file leaf-file-name="stopwords.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/dict/stopwords.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-              <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Observator.py" pinned="false" current-in-tab="false">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+      <file leaf-file-name="Observator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Observation/Observator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="301" max-vertical-offset="630">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="513">
+              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+              <folding>
+                <element signature="e#20#30#0" expanded="true" />
+              </folding>
+=======
+      <file leaf-file-name="result.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/结果/离婚纠纷结果/result.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1638" max-vertical-offset="10563">
+              <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
               <folding />
+>>>>>>> complete with marriage laws,fact,result
             </state>
           </provider>
         </entry>
@@ -92,20 +112,36 @@
         <option value="$PROJECT_DIR$/src/AbstractGenerator/ResultExtractor.py" />
         <option value="$PROJECT_DIR$/src/AbstractGenerator/LawsExtractor.py" />
         <option value="$PROJECT_DIR$/resource/dict/LawsName" />
-        <option value="$PROJECT_DIR$/src/Observation/Observator.py" />
         <option value="$PROJECT_DIR$/src/Test/TestJieBae.py" />
         <option value="$PROJECT_DIR$/src/Test/Nothing.py" />
-        <option value="$PROJECT_DIR$/src/FileTools/Tools.py" />
         <option value="$PROJECT_DIR$/src/AbstractGenerator/TriPatternExtractor.py" />
+        <option value="$PROJECT_DIR$/resource/结果/盗窃罪" />
         <option value="$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex.py" />
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <option value="$PROJECT_DIR$/src/Observation/Observator.py" />
+=======
+        <option value="$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex_criminal.py" />
+        <option value="$PROJECT_DIR$/resource/dict/stopwords.txt" />
+        <option value="$PROJECT_DIR$/src/FileTools/Tfidf.py" />
+        <option value="$PROJECT_DIR$/resource/dict/civil_marriage" />
+        <option value="$PROJECT_DIR$/src/FileTools/Tools.py" />
+        <option value="$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex_civil.py" />
+        <option value="$PROJECT_DIR$/resource/dict/civil_mariiage_result" />
+>>>>>>> complete with marriage laws,fact,result
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1292" />
     <option name="height" value="744" />
+=======
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+>>>>>>> complete with marriage laws,fact,result
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -128,19 +164,16 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="AbstractGenerator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -234,6 +267,46 @@
               <option name="myItemId" value="resource" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="结果" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractGenerator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractGenerator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="结果" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="离婚纠纷结果" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractGenerator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractGenerator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -255,6 +328,11 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+      <pane id="Scratches" />
+=======
+>>>>>>> complete with marriage laws,fact,result
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +340,7 @@
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WordDiambiguation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -272,51 +350,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\AbstractGenerator\src\AbstractGenerator" />
       <recent name="D:\workspace\AbstractGenerator\resource" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\AbstractGenerator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Extractor_Regex">
-    <configuration default="false" name="Tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/FileTools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AbstractGenerator" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/FileTools/Tools.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Observator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Observation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AbstractGenerator" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Observation/Observator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Extractor_Regex_civil">
     <configuration default="false" name="TriPatternExtractor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,7 +408,45 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AbstractGenerator" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex.py" />
+      <option name="SCRIPT_NAME" value="D:\workspace\AbstractGenerator\src\AbstractGenerator\Extractor_Regex_criminal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tfidf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/FileTools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AbstractGenerator" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/FileTools/Tfidf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Extractor_Regex_civil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/AbstractGenerator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AbstractGenerator" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex_civil.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -389,52 +468,6 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AbstractGenerator" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AbstractGenerator" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -496,24 +529,72 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AbstractGenerator" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AbstractGenerator" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Tools" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Observator" />
-      <item index="2" class="java.lang.String" itemvalue="Python.TriPatternExtractor" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Nothing" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Extractor_Regex" />
+      <item index="0" class="java.lang.String" itemvalue="Python.TriPatternExtractor" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Nothing" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Extractor_Regex" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Tfidf" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Extractor_Regex_civil" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Extractor_Regex" />
-        <item index="1" class="java.lang.String" itemvalue="Python.TriPatternExtractor" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Nothing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Tools" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Observator" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Extractor_Regex_civil" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Tfidf" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Extractor_Regex" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TriPatternExtractor" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Nothing" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -522,54 +603,80 @@
       <changelist id="4223e8f8-0d59-4e84-bc7e-d1428282a2c4" name="Default" comment="" />
       <created>1476691345142</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1476691345142</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+    <frame x="-8" y="-8" width="1292" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24451411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36581197" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24479167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5189681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36581197" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35726497" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38368055" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32820514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> complete with marriage laws,fact,result
     </layout>
     <layout-to-restore>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43760684" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43760684" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -583,390 +690,628 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="15" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="189">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）安民初字第1900号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="282">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/2015年华法民初字第5822号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="297">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）义民初字第1076号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="295">
-          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）丽莲南商初字第466号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-          <caret line="0" column="114" selection-start-line="0" selection-start-column="70" selection-end-line="0" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）东商初字第7048号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-          <caret line="0" column="63" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）东商初字第1413号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="282">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）颍民一初字第02577号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="282">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）遵民初字第03756号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="284">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/(2016)京0105刑初260号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="189">
-          <caret line="0" column="51" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/(2016)京0105刑初827号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="287">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）济民初字第215号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="295">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2014）宛龙梅民初字第347号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）奎刑初字第411号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="277">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）南刑初字第540号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="277">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/(2016)京0114刑初412号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="277">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）乐刑初字第487号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="413">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/(2016)京0108刑初721号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="413">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2014）宛龙高民初字第368号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="282">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）杭拱商初字第1324号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="284">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2014）灞刑初字第00427号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-          <caret line="0" column="193" selection-start-line="0" selection-start-column="188" selection-end-line="0" selection-end-column="193" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/(2016)京0114刑初145号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="147">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）丛刑初字第00276号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="180" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）上刑初字第129号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="147">
-          <caret line="0" column="142" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/(2016)京0107刑初173号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）南刑初字第0234号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）奉刑初字第2089号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）朝刑初字第2663号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="11" />
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）乐刑初字第483号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
+>>>>>>> complete with marriage laws,fact,result
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）北民初字第884号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
+>>>>>>> complete with marriage laws,fact,result
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）东商初字第7230号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）农民初字第4706号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="114" selection-start-line="0" selection-start-column="70" selection-end-line="0" selection-end-column="114" />
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）南民初字第11757号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="63" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="63" />
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）台温商初字第5011号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
           <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）东商初字第2932号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
+>>>>>>> complete with marriage laws,fact,result
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/（2015）新刑初字第591号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state vertical-scroll-proportion="0.1160221" vertical-offset="0" max-vertical-offset="543">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/（2015）五刑初字第161号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="51" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="51" />
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2016）京0119刑初68号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
+>>>>>>> complete with marriage laws,fact,result
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/(2016)京0105刑初890号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
+>>>>>>> complete with marriage laws,fact,result
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/（2015）佛三法刑初字第780号.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="9" />
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="329">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/TestJieBae.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state vertical-scroll-proportion="0.06140351" vertical-offset="0" max-vertical-offset="342">
           <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/ObservationResult/result_盗窃罪.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41706">
+>>>>>>> complete with marriage laws,fact,result
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/Nothing.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state vertical-scroll-proportion="0.68085104" vertical-offset="763" max-vertical-offset="1113">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Observation/Observator.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="301" max-vertical-offset="630">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/dict/stopwords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/dict/LawsName">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27361563" vertical-offset="0" max-vertical-offset="6195">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/（2015）吴江刑二初字第00679号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="307">
-          <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractGenerator/TriPatternExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4310344" vertical-offset="1555" max-vertical-offset="2520">
-          <caret line="138" column="37" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="37" />
-          <folding>
-            <element signature="e#20#29#0" expanded="false" />
-            <element signature="e#166#257#0" expanded="false" />
-            <element signature="e#392#670#0" expanded="false" />
-            <element signature="e#700#1573#0" expanded="false" />
-            <element signature="e#1605#2148#0" expanded="false" />
-            <element signature="e#2192#2533#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1407">
-          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
-          <folding>
-            <element signature="e#20#29#0" expanded="true" />
-          </folding>
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/dict/guilty_name.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9933">
+>>>>>>> complete with marriage laws,fact,result
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2015）南刑初字第0234号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="168">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2016）京0115刑初705号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="168">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/故意伤害罪/（2016）京0119刑初21号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="193" selection-start-line="0" selection-start-column="188" selection-end-line="0" selection-end-column="193" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="417">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/（2015）吴江刑二初字第00679号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="334">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2012）山民初字第224号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="180" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="347">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractGenerator/TriPatternExtractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="142" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="87" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="1365">
+          <caret line="146" column="39" selection-start-line="146" selection-start-column="39" selection-end-line="146" selection-end-column="39" />
+          <folding>
+            <element signature="e#166#257#0" expanded="false" />
+            <element signature="e#392#670#0" expanded="false" />
+            <element signature="e#700#1573#0" expanded="false" />
+            <element signature="e#1605#2148#0" expanded="false" />
+            <element signature="e#2192#2533#0" expanded="false" />
+            <element signature="e#2575#3179#0" expanded="false" />
+            <element signature="e#3209#3814#0" expanded="false" />
+            <element signature="e#3854#4123#0" expanded="false" />
+            <element signature="e#4169#4381#0" expanded="false" />
+          </folding>
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）东商初字第7349号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="334">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）安民初字第1900号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.06287425" vertical-offset="0" max-vertical-offset="334">
+          <caret line="0" column="74" selection-start-line="0" selection-start-column="74" selection-end-line="0" selection-end-column="74" />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2015）台温箬商初字第536号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="334">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/ObservationResult/result_离婚纠纷.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="73185">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/结果/结果-3regex.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10416">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2013）栖民一初字第637号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="335">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2014）宛龙梅民初字第347号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="9" />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2014）望民一初字第00280号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="335">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2014）安法民一初字第1371号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="335">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2015）东民初字第203号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2015）东民初字第653号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="335">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2015）丽青民初字第1035号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="322">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）杭拱商初字第1324号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="322">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/结果/盗窃罪">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="-2.347826" vertical-offset="756" max-vertical-offset="10500">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/民间借贷纠纷/（2014）威环民初字第2522号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2015）丽莲民初字第1382号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="335">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+    <entry file="file://$PROJECT_DIR$/src/Test/TestJieBae.py" />
+    <entry file="file://$PROJECT_DIR$/resource/ObservationResult/result_盗窃罪.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Nothing.py" />
+    <entry file="file://$PROJECT_DIR$/resource/dict/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/Dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="335">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/离婚纠纷/（2015）东民初字第3182号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06521739" vertical-offset="0" max-vertical-offset="322">
+          <caret line="1" column="97" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="337" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex_criminal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5869565" vertical-offset="42" max-vertical-offset="2478">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#44#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/dict/LawsName">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.2413793" vertical-offset="3809" max-vertical-offset="6195">
+          <caret line="190" column="16" selection-start-line="190" selection-start-column="16" selection-end-line="190" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FileTools/Tools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27517986" vertical-offset="246" max-vertical-offset="1911">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1212" max-vertical-offset="1911">
+          <caret line="69" column="10" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="10" />
           <folding />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileTools/Tfidf.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="1722">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+>>>>>>> complete with marriage laws,fact,result
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/dict/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+        <state relative-caret-position="0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+>>>>>>> complete with marriage laws,fact,result
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+    <entry file="file://$PROJECT_DIR$/src/FileTools/Tools.py" />
+    <entry file="file://$PROJECT_DIR$/src/AbstractGenerator/TriPatternExtractor.py" />
+    <entry file="file://$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex.py" />
+    <entry file="file://$PROJECT_DIR$/resource/摘要文书/盗窃罪/（2015）吴江刑二初字第00679号.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+=======
+    <entry file="file://$PROJECT_DIR$/resource/结果/离婚纠纷结果/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1638" max-vertical-offset="10563">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+>>>>>>> complete with marriage laws,fact,result
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< 140b4be19f8ed026ad89649974182aaab6d17c98
+    <entry file="file://$PROJECT_DIR$/src/Observation/Observator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding>
+            <element signature="e#20#30#0" expanded="true" />
+          </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/resource/dict/civil_marriage">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="610" max-vertical-offset="987">
+          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractGenerator/Extractor_Regex_civil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3793104" vertical-offset="716" max-vertical-offset="3528">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <element signature="e#44#53#0" expanded="true" />
+            <element signature="e#164#213#0" expanded="false" />
+            <element signature="e#236#331#0" expanded="false" />
+            <element signature="e#3819#4264#0" expanded="false" />
+            <element signature="e#4320#4815#0" expanded="false" />
+            <element signature="e#4865#5099#0" expanded="false" />
+            <element signature="e#5993#6317#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/dict/civil_mariiage_result">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0920246" vertical-offset="1" max-vertical-offset="483">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding />
+>>>>>>> complete with marriage laws,fact,result
         </state>
       </provider>
     </entry>

@@ -143,9 +143,9 @@ def demo(func):
 
     # path = Dir.resourceDir+"\\摘要文书\\故意伤害罪"
     paths = [
-    # Dir.resourceDir+"\\摘要文书\\故意伤害罪"
+    Dir.resourceDir+"\\摘要文书\\故意伤害罪"
              # ,Dir.resourceDir+"\\摘要文书\\离婚纠纷",
-             Dir.resourceDir+"\\摘要文书\\盗窃罪"
+             # Dir.resourceDir+"\\摘要文书\\盗窃罪"
              # Dir.resourceDir+"\\摘要文书\\民间借贷纠纷"
     ]
     final_result = []

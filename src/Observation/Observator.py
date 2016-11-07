@@ -2,7 +2,7 @@ __author__ = 'E440'
 import Dir
 import re
 import src.FileTools.Tools as tools
-
+import jieba
 def observate_sentence_lenth(filepath,savepath=Dir.resourceDir+"\\ObservationResult\\result_"):
     savepath += tools.get_filename(filepath)+".txt"
     result = tools.read_dir(filepath)
@@ -25,3 +25,6 @@ observate_sentence_lenth(Dir.resourceDir+"摘要文书\离婚纠纷")
 observate_sentence_lenth(Dir.resourceDir+"摘要文书\盗窃罪")
 observate_sentence_lenth(Dir.resourceDir+"摘要文书\故意伤害罪")
 observate_sentence_lenth(Dir.resourceDir+"摘要文书\民间借贷纠纷")
+
+def observate_words_num(sentence):
+    return list(jieba.cut(sentence)).__len__()
