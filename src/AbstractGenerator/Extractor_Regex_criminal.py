@@ -69,7 +69,7 @@ def extract(text):
                         string = string[string.rindex("犯"):]
                 if string.__len__()<=2:
                     continue
-                print(string)
+                # print(string)
                 tmp_result.append(string)
         # print(guilty_result)
 
@@ -89,14 +89,19 @@ def demo():
     # ,
              Dir.resourceDir+"\\摘要文书\\盗窃罪"
     ]
+    content =""
     for path in paths:
         text_list = tools.read_dir(path)
         for file in text_list.keys():
             text = text_list[file]
             result = extract(text)
 
-            string = tools.get_filename(file)+"\t"+str(result[0])[1:-1]+"\t"+str(result[1])[1:-1]+"\t"+str(result[2])[1:-1]+"\t"+str(result[3])[1:-1]
-            # print(string)
+            string = tools.get_filename(file)+"\t"+text+"\t"+str(result[0])[1:-1]+"\t"+str(result[1])[1:-1]+"\t"+str(result[2])[1:-1]+"\t"+str(result[3])[1:-1]
+            content +=string+"\n"
+            print(string)
+
+    filepath = Dir.resourceDir+"结果\\盗窃罪结果\\result.txt"
+    tools.write(filepath,content)
 
 def demo_text():
     text ="本院认为，被告人赵某某因琐事故意伤害他人身体，致一人轻伤二级，侵犯他人身体健康权，其行为已构成《中华人民共和国刑法》第二百三十四条第一款规定的故意伤害罪。西安市灞桥区人民检察院指控被告人所犯罪名成立，依法应予惩处。被告人赵某某系东江花园小区业主委员会负责人，因小区公共事务与被害人发生争吵，二人在相互谩骂过程中，赵某某持马扎致伤被害人，双方对矛盾激化均负有责任，案件审理过程中，赵某某已积极赔偿被害人经济损失，取得被害人谅解，依法可从轻处罚。"
