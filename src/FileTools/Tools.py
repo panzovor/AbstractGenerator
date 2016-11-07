@@ -67,7 +67,7 @@ def readLines(filepath,encoding ="utf-8"):
 def write(filepath,content,encoding ="utf-8",append = False):
     checkFile(filepath)
     file = None
-    if append:
+    if not append:
         file = codecs.open(filepath,"w",encoding)
     else:
         file = codecs.open(filepath,"a",encoding)
