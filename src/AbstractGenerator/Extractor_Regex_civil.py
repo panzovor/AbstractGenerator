@@ -77,7 +77,7 @@ def extract_result(text):
 def extract_fact(text):
     pos_words = loadWords()
     result ={}
-    sentences = sepearate_details(text)
+    sentences = sepearate(text)
     if debug:
         print("============================================")
         print(text)
